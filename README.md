@@ -1,7 +1,7 @@
 # Hi, I'm Darpan Ovhal 👋
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Darpan Ovhal Banner" width="100%">
+  <img src="./assets/Darpan Ovhal_ Cloud and DevOps Journey.png" alt="Darpan Ovhal Banner" width="100%">
 </p>
 
 ### MCA Student | Cloud & DevOps Enthusiast
