@@ -1,5 +1,9 @@
 # Hi, I'm Darpan Ovhal 👋
 
+<p align="center">
+  <img src="./assets/banner.png" alt="Darpan Ovhal Banner" width="100%">
+</p>
+
 ### MCA Student | Cloud & DevOps Enthusiast
 
 I am an MCA student focused on building practical skills in **Cloud Computing, DevOps, Linux, Networking, Automation, and Infrastructure**.
